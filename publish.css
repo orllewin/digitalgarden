@@ -1,0 +1,151 @@
+body {
+  background-color: #FEF9F1;
+}
+
+.page-header {
+  font-size: 1em;
+  font-weight: 200;
+  font-style: normal;
+  font-family: -apple-system, sans-serif;
+}
+
+.published-container.is-readable-line-width .site-body-left-column {
+  flex-basis: 0;
+}
+
+.nav-view-outer {
+  padding-top: 0px;
+}
+
+.site-body-left-column {
+  padding: 0px 0 0 18px;
+}
+
+.site-body-left-column{
+  background-color: #FEF9F1;
+}
+.site-body-left-column{
+  background-color: #FEF9F1;
+}
+
+.theme-light {
+    --link-external-color: white;
+    --link-external-color-hover: white;
+    --link-external-color-visited: white;
+    --link-color: white;
+    --link-color-hover: white;
+    --link-color-visited: white;
+    --nav-item-color-active: white;
+}
+
+.theme-light .outline-view-outer .tree-item-self.mod-active {
+  text-decoration: none;
+  background-color: black;
+  padding: 0px 4px;
+  background-image: none;
+  color: white;
+}
+
+.markdown-rendered .internal-link {
+  cursor: var(--cursor-link);
+  color: #343330;
+  text-decoration: underline;
+}
+
+a{
+  color: #343330;
+  text-decoration: underline;
+}
+
+.external-link {
+  color: #343330;
+}
+
+.internal-link {
+  color: #343330;
+}
+
+/* .theme-light .external-link{
+  text-decoration: none;
+  background-color: black;
+  padding: 0px 4px;
+  background-image: none;
+} */
+
+/* .theme-light .internal-link{
+  text-decoration: none;
+  background-color: black;
+  padding: 0px 4px;
+} */
+
+.theme-light .nav-view-outer .tree-item-self.mod-active {
+  color: black;
+}
+
+.theme-light .nav-view-outer .tree-item-self.mod-active {
+  border-left: 1px solid black;
+}
+
+.theme-dark {
+    --link-external-color: black;
+    --link-external-color-hover: black;
+    --link-external-color-visited: black;
+    --link-color: black;
+    --link-color-hover: black;
+    --link-color-visited: black;
+    --nav-item-color-active: black;
+}
+
+.theme-dark .outline-view-outer .tree-item-self.mod-active {
+  text-decoration: none;
+  background-color: white;
+  padding: 0px 4px;
+  background-image: none;
+  color: black;
+}
+
+.theme-dark .external-link{
+  text-decoration: none;
+  background-color: white;
+  padding: 0px 4px;
+  background-image: none;
+}
+
+.theme-dark .internal-link{
+  text-decoration: none;
+  background-color: white;
+  padding: 0px 4px;
+}
+
+.theme-dark .nav-view-outer .tree-item-self.mod-active {
+  color: white;
+}
+
+.theme-dark .nav-view-outer .tree-item-self.mod-active {
+  border-left: 1px solid white;
+}
+
+.site-body-left-column-site-name{
+  visibility: collapse;
+}
+.site-body-left-column-site-logo img{
+  width: 30px;
+  height: auto;
+  max-width: 400px;
+  
+}
+.site-body-left-column-site-logo{
+
+  text-align: left;
+
+}
+
+.markdown-rendered code {
+  font-size: 13px;
+  line-height: 1;
+}
+
+
+img {
+  max-width:100%;
+}

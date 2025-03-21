@@ -1,0 +1,1 @@
+![povray_kotlinscript_spheres0002](../images/povray_kotlinscript_spheres0002.jpg)

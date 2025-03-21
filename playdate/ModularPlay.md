@@ -1,0 +1,1 @@
+Modular Play is now open source and all documentation is on Github: [github.com/orllewin/modularplay](https://github.com/orllewin/modularplay)

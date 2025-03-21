@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "3cd6c0a4105bcf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "7458c2c531cdbb0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52bcb7c81b0de421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stones/Stones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe5845f1082e2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80f0652e59abfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc431e6ee88a8e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d94318de22e8658e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b185f872455c06ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "639a0807734f918c",
+    "type": "split",
+    "children": [
+      {
+        "id": "772ea6df6e5c40f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8515de0f9efc97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "stones/Stones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a501a3f33da20e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "stones/Stones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feb2926d526d327c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e34ca3d07215ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "stones/Stones.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52bcb7c81b0de421",
+  "lastOpenFiles": [
+    "graphics/processing/images/shredder_firstA.jpg",
+    "graphics/processing/images/shredder_imageD.jpg",
+    "graphics/processing/images/shredder_source.jpg",
+    "graphics/processing/images/shredder_imageB.jpg",
+    "graphics/processing/images/shredder_imageC.jpg",
+    "graphics/processing/images/shredder_firstB.jpg",
+    "graphics/processing/images/shredder_imageA.jpg",
+    "graphics/processing/images",
+    "graphics/processing/Shredder.md",
+    "graphics/processing",
+    "stones/west_yorkshire/Walshaw Dean Reservoir Circle.md",
+    "stones/west_yorkshire/images/20241005_walshaw_dean_reservoir_circle_004.jpg",
+    "stones/west_yorkshire/images/20241005_walshaw_dean_reservoir_circle_003.jpg",
+    "stones/west_yorkshire/images/20241005_walshaw_dean_reservoir_circle_002.jpg",
+    "stones/west_yorkshire/images/20241005_walshaw_dean_reservoir_circle_old_photo.jpg",
+    "calderdale/Sourhall.md",
+    "stones/west_yorkshire/Jack Bridge.md",
+    "stones/Stones.md",
+    "stones/wales/Bryn Celli Ddu Burial Chamber.md",
+    "stones/wales/Hwylfa’r Ceirw stone row.md",
+    "stones/west_yorkshire/Bridestone.md",
+    "stones/cumbria/St Michael’s Church, Addingham.md",
+    "stones/cumbria/Addingham Cross.md",
+    "stones/cumbria/Long Meg.md",
+    "stones/cumbria/Cop Stone.md",
+    "stones/scotland/Clachtoll Broch.md",
+    "stones/scotland/Ardvreck Chambered Cairn.md",
+    "stones/scotland/Untitled",
+    "stones/scotland/Wigtown Martyr's Stake.md",
+    "stones/scotland/Torhouse Unnamed Stone.md",
+    "stones/scotland/Torhouse Stone Circle.md",
+    "stones/scotland/Torhouse (Torhousekie) Stone Row.md",
+    "stones/scotland/Kirkmadrine Stones.md",
+    "stones/scotland/Fyvie Pictish Stones.md",
+    "stones/scotland/Drumtroddan Standing Stones.md",
+    "stones/scotland/Drumtroddan Rock Art.md",
+    "stones/scotland/Cairnweil Standing Stone.md",
+    "stones/scotland/Culgarie (Longcastle) Standing Stone.md",
+    "stones/scotland/Cairn Holy Chambered Cairn 2.md",
+    "stones/cumbria/images/20240602_moor_divock_cairn_circle_lento_orl_mono_standard_a142_1717322519.jpg.sb-73c37815-PlqPm2",
+    "stones/west_yorkshire/images/20220307_12_apostles_PXL_20220307_115546815.jpg.sb-73c37815-5ki8Ei",
+    "stones/west_yorkshire/images/20220307_12_apostles_lento_orl_mono_standard_pixel_6_1646654350.jpg.sb-73c37815-R20uGW",
+    "stones/west_yorkshire/images/20220307_12_apostles_lento_orl_mono_standard_pixel_6_1646654281.jpg.sb-73c37815-pWFqUH",
+    "stones/west_yorkshire/images/20220307_12_apostles_lento_orl_colour_standard_pixel_6_1646654186.jpg.sb-73c37815-I1HFKQ",
+    "stones/lancashire/images",
+    "stones/lancashire"
+  ]
+}

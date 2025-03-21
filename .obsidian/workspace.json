@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3cd6c0a4105bcf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "570170925f9a6c99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef4be0e9dfa1f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trigpoints/Trigpoints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trigpoints"
+            }
+          },
+          {
+            "id": "cc63d88ddb348d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "audio/music/Experiments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiments"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe5845f1082e2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80f0652e59abfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc431e6ee88a8e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d94318de22e8658e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b185f872455c06ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "639a0807734f918c",
+    "type": "split",
+    "children": [
+      {
+        "id": "772ea6df6e5c40f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8515de0f9efc97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "software/Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Control"
+            }
+          },
+          {
+            "id": "1a501a3f33da20e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "software/Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Control"
+            }
+          },
+          {
+            "id": "feb2926d526d327c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e34ca3d07215ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "shop/Orllewin MAB Pedal.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Orllewin MAB Pedal"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "bc431e6ee88a8e70",
+  "lastOpenFiles": [
+    "repoclean.sh",
+    "art/A, by S.md",
+    "art/images/s_by_a.jpg",
+    "art/images/s_by_a_wip.jpg",
+    "art/images/daddy_by_a.jpg",
+    "art/images/a_by_s.jpg",
+    "trigpoints/lancashire/Robin Cross Hill.md",
+    "trigpoints/Trigpoints.md",
+    "lancashire/Robine Cross Hill.md",
+    "lancashire",
+    "trigpoints/lancashire/Great Hameldon.md",
+    "trigpoints/lancashire/images/lento_orl_mono_standard_a015_1738245254.jpg",
+    "trigpoints/lancashire/images/lento_orl_mono_standard_a015_1738245100.jpg",
+    "trigpoints/west_yorkshire/Bridestones Moor.md",
+    "trigpoints/lancashire/Black Hameldon.md",
+    "trigpoints/lancashire/images/PXL_20250320_092028065.jpg",
+    "trigpoints/lancashire/images/PXL_20250320_091944158.jpg",
+    "trigpoints/lancashire/images/PXL_20250313_120718287.jpg",
+    "trigpoints/lancashire/images/PXL_20250305_164940372.jpg",
+    "trigpoints/greater_manchester/Blackstone Edge.md",
+    "trigpoints/greater_manchester/images",
+    "trigpoints/greater_manchester",
+    "stones/Stones.md",
+    "trigpoints/lancashire/Pendle Hill.md",
+    "trigpoints/west_yorkshire/Bridestones",
+    "trigpoints/west_yorkshire/images",
+    "android/openstreetmap/OpenStreetMap.md",
+    "android/Untitled",
+    "android/openstreetmap",
+    "android",
+    "playdate/ModularPlay.md",
+    "trigpoints/lancashire/images",
+    "README.md",
+    "trigpoints/lancashire",
+    "Set html export settings.md",
+    "audio/maxmsp/buffer_loops/Infiniverb.md",
+    "blog/2025 01.md",
+    "software/Pudsey Clough Radio.md",
+    "blog/2024 12.md",
+    "audio/chuck/Export.md",
+    "audio/music/Experiments.md",
+    "audio/chuck/Bowed ambience.md",
+    "audio/chuck/ChucK.md",
+    "blog/Good words list.md",
+    "shop/Orllewin MAB Pedal.md",
+    "private/health/2024 08.md"
+  ]
+}

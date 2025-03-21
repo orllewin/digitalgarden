@@ -1,0 +1,36 @@
+## Platform
+
+Multiple.
+
+## About
+
+I've created a net-radio app for various platforms, for a while I used it as my own Hello, World! project.
+
+Most recently I cobbled together a framework-free PWA version that encodes the station data in a base 64 query string, is installable, and sets the station metadata for proper native media session handling: [orllewin.github.io/radio/](https://orllewin.github.io/radio/?eyJ0aXRsZSI6Ik9ybGxld2luUmFkaW8iLCJzdGF0aW9ucyI6W3sibGFiZWwiOiJEb1lvdVdvcmxkIiwidXJsIjoiaHR0cHM6Ly9kb3lvdXdvcmxkLm91dC5haXJ0aW1lLnByby9kb3lvdXdvcmxkX2EiLCJjb2xvdXIiOiIjZjRkZTdmIiwiaWNvblVybCI6Imh0dHBzOi8vb3JsbGV3aW4uZ2l0aHViLmlvL3JhZGlvL2Fzc2V0cy9yYWRfZG95b3VfMjU2LnBuZyJ9LHsibGFiZWwiOiJOZXRpbFJhZGlvIiwidXJsIjoiaHR0cHM6Ly9uZXRpbHJhZGlvLm91dC5haXJ0aW1lLnByby9uZXRpbHJhZGlvX2EiLCJjb2xvdXIiOiIjNDA3ZWVlIiwiaWNvblVybCI6Imh0dHBzOi8vb3JsbGV3aW4uZ2l0aHViLmlvL3JhZGlvL2Fzc2V0cy9uZXRpbF9yYWRpb18yNTYucG5nIn0seyJsYWJlbCI6Ik5UUzEiLCJ1cmwiOiJodHRwczovL3N0cmVhbS1yZWxheS1nZW8ubnRzbGl2ZS5uZXQvc3RyZWFtIiwiY29sb3VyIjoiI2M5OWRjNCIsImljb25VcmwiOiJodHRwczovL29ybGxld2luLmdpdGh1Yi5pby9yYWRpby9hc3NldHMvcmFkX250c18yNTYucG5nIn0seyJsYWJlbCI6Ik5UUzIiLCJ1cmwiOiJodHRwczovL3N0cmVhbS1yZWxheS1nZW8ubnRzbGl2ZS5uZXQvc3RyZWFtMiIsImNvbG91ciI6IiM4RTgxQTYiLCJpY29uVXJsIjoiaHR0cHM6Ly9vcmxsZXdpbi5naXRodWIuaW8vcmFkaW8vYXNzZXRzL3JhZF9udHNfMjU2LnBuZyJ9XX0=)
+
+Previous incarnations includes a KotlinJS version, a SwiftUI MacOS desktop app, Android Compose, and maybe one or two others. These previous versions all relied on a remote hosted JSON file to hold the data, I lost the main file when I stopped paying for [Neocities](https://neocities.org/) - I think a permissive CORs header is removed for free accounts. 
+
+They're all fairly chaotic.
+
+## Web
+
+ [orllewin.github.io/radio/](https://orllewin.github.io/radio/index.html?eyJ0aXRsZSI6Ik9ybGxld2luIFJhZGlvIiwic3RhdGlvbnMiOlt7ImxhYmVsIjoiRE8hWU9VIVdPUkxEISIsInVybCI6Imh0dHBzOi8vZG95b3V3b3JsZC5vdXQuYWlydGltZS5wcm8vZG95b3V3b3JsZF9hIiwiY29sb3VyIjoiI2Y0ZGU3ZiIsImljb25VcmwiOiJodHRwczovL29ybGxld2luLnVrL3JhZC9yYWRfZG95b3VfMjU2LnBuZyJ9LHsibGFiZWwiOiJOZXRpbCBSYWRpbyIsInVybCI6Imh0dHBzOi8vbmV0aWxyYWRpby5vdXQuYWlydGltZS5wcm8vbmV0aWxyYWRpb19hIiwiY29sb3VyIjoiIzQwN2VlZSIsImljb25VcmwiOiJodHRwczovL29ybGxld2luLnVrL3JhZC9uZXRpbF9yYWRpb18yNTYucG5nIn0seyJsYWJlbCI6Ik5UUyAxIiwidXJsIjoiaHR0cHM6Ly9zdHJlYW0tcmVsYXktZ2VvLm50c2xpdmUubmV0L3N0cmVhbSIsImNvbG91ciI6IiNjOTlkYzQiLCJpY29uVXJsIjoiaHR0cHM6Ly9vcmxsZXdpbi51ay9yYWQvcmFkX250c18yNTYucG5nIn0seyJsYWJlbCI6Ik5UUyAyIiwidXJsIjoiaHR0cHM6Ly9zdHJlYW0tcmVsYXktZ2VvLm50c2xpdmUubmV0L3N0cmVhbTIiLCJjb2xvdXIiOiIjOEU4MUE2IiwiaWNvblVybCI6Imh0dHBzOi8vb3JsbGV3aW4udWsvcmFkL3JhZF9udHNfMjU2LnBuZyJ9XX0=)
+
+## Web (KotlinJS)
+
+[github.com/orllewin/radio_web](https://github.com/orllewin/radio_web)
+
+## MacOS SwiftUI
+
+[github.com/orllewin/radio_macos](https://github.com/orllewin/radio_macos)
+## Android (old version)
+
+[github.com/orllewin/radio_android](https://github.com/orllewin/radio_android)
+
+## Flutter
+
+[github.com/orllewin/radio_flutter](https://github.com/orllewin/radio_flutter)
+
+## Status
+
+Archived.

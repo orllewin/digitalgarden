@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3cd6c0a4105bcf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "976504ade3240045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4a262f17c57d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gogledd Orllewin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe5845f1082e2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80f0652e59abfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc431e6ee88a8e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d94318de22e8658e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b185f872455c06ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "639a0807734f918c",
+    "type": "split",
+    "children": [
+      {
+        "id": "772ea6df6e5c40f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8515de0f9efc97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gogledd Orllewin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a501a3f33da20e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gogledd Orllewin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feb2926d526d327c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e34ca3d07215ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gogledd Orllewin.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc431e6ee88a8e70",
+  "lastOpenFiles": [
+    "audio/elmetbrae/images/ebct001_fern.JPG",
+    "audio/elmetbrae/images/P1014120.jpg",
+    "audio/elmetbrae/images",
+    "private/ebct001_wind_turbine_by_orllewin.wav",
+    "private/wind_turbine_3finalfinal.wav",
+    "private",
+    "untitled folder",
+    "stones/cumbria/images/addingham_hogback_003.jpg",
+    "audio/maxmsp/audio/turbine_subloop_tape.mp3",
+    "audio/maxmsp/Analog Tape.md",
+    "audio/field_recordings/cumbria/audio/20240505_melmerby_stream_zoom_h1.mp3",
+    "audio/field_recordings/cumbria/images/20240505_melmerby_003.jpg",
+    "stones/cumbria/images/little_meg_002.jpg",
+    "stones/cumbria/Addingham Cross.md",
+    "audio/field_recordings/cumbria/images/20240505_melmerby_004.jpg",
+    "stones/cumbria/images/addingham_hogback_001.jpg",
+    "stones/gloucestershire/images/PXL_20220530_153407044.jpg",
+    "stones/cumbria/images/oddendale_001.jpg",
+    "audio/field_recordings/cumbria/images/20240505_melmerby_002.jpg",
+    "audio/field_recordings/cumbria/images/20240505_melmerby_001.jpg",
+    "stones/cumbria/St Michael’s Church, Addingham.md",
+    "audio/maxmsp/audio/subloop_glitch_accident.mp3",
+    "stones/cumbria/Glassonby stone circle.md",
+    "audio/field_recordings/cumbria/audio/20240505_melmerby_stream_hydrophone.mp3",
+    "blog/Bad words list.md",
+    "stones/wales/Sarn Meyllteyrn.md",
+    "stones/wales/Dyffryn Ardudwy.md",
+    "stones/wales/Lligwy Cromlech.md",
+    "stones/west_yorkshire/Aiggin Stone.md",
+    "stones/west_yorkshire/Basin Stone.md",
+    "stones/west_yorkshire/Bridestone.md",
+    "stones/west_yorkshire/Catholes Stone.md",
+    "stones/west_yorkshire/Cow and Calf.md",
+    "stones/west_yorkshire/Eagles Crag.md",
+    "stones/west_yorkshire/Flower Scar Stone Crusher.md",
+    "stones/west_yorkshire/Great Rock.md",
+    "stones/west_yorkshire/Mount Cross.md",
+    "stones/west_yorkshire/Robins Hoods Bed.md",
+    "stones/west_yorkshire/Stones Lane 1.md",
+    "stones/west_yorkshire/Stones Lane 2.md",
+    "stones/cumbria/Long Meg.md",
+    "audio/field_recordings/yorkshire/audio/20240417_coal_clough_wind_turbine.mp3",
+    "audio/elmetbrae/Elmet Brae.md",
+    "audio/elmetbrae/EBCT001.md",
+    "audio/elmetbrae/EB01.md",
+    "graphics/godot/Cells.md"
+  ]
+}

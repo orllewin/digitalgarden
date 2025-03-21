@@ -1,0 +1,1 @@
+See [St Michael’s Church, Addingham](St%20Michael’s%20Church,%20Addingham.md)
