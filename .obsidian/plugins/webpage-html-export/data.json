@@ -46,22 +46,22 @@
   "exportPath": "/Users/jfisher/Documents/sw",
   "filesToExport": [
     [
-      "art",
+      "arts_and_crafts/art",
       "assets",
       "audio",
       "blog",
-      "calderdale",
+      "outdoors/calderdale",
       "computers",
-      "crafts",
+      "arts_and_crafts",
       "food",
-      "graphics",
+      "computers/graphics",
       "hardware",
-      "places",
-      "playdate",
+      "outdoors/places",
+      "computers/playdate",
       "private",
       "shop",
-      "software",
-      "stones",
+      "computers/software",
+      "outdoors/stones",
       "Gogledd Orllewin.md"
     ]
   ]

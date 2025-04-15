@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "3cd6c0a4105bcf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "570170925f9a6c99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "306b9137cdd4cab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outdoors/pennine_way/The Pennine Way.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pennine Way"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe5845f1082e2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80f0652e59abfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc431e6ee88a8e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d94318de22e8658e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b185f872455c06ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "639a0807734f918c",
+    "type": "split",
+    "children": [
+      {
+        "id": "772ea6df6e5c40f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8515de0f9efc97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "software/Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Control"
+            }
+          },
+          {
+            "id": "1a501a3f33da20e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "software/Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Control"
+            }
+          },
+          {
+            "id": "feb2926d526d327c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e34ca3d07215ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "shop/Orllewin MAB Pedal.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Orllewin MAB Pedal"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "306b9137cdd4cab4",
+  "lastOpenFiles": [
+    "outdoors/pennine_way/images/20250329_PXL_20250329_141151465.jpg",
+    "outdoors/pennine_way/images/20250329_PXL_20250329_140420861.jpg",
+    "outdoors/pennine_way/images/20250329_PXL_20250329_102521910.jpg",
+    "outdoors/pennine_way/images/20250329_PXL_20250329_110229820.jpg",
+    "outdoors/pennine_way/The Pennine Way.md",
+    "outdoors/pennine_way/images/20250329_PXL_20250329_092055318.jpg",
+    "outdoors/pennine_way/images/20250328_PXL_20250328_142652005.jpg",
+    "outdoors/pennine_way/images/20250328_PXL_20250328_143900999.jpg",
+    "outdoors/pennine_way/images/20250328_PXL_20250328_130154928.jpg",
+    "outdoors/pennine_way/images/20250328_PXL_20250328_114353779.jpg",
+    "outdoors/pennine_way/images/20250328_PXL_20250328_114426926.jpg",
+    "outdoors/pennine_way/images/20250328_PXL_20250328_101646626.jpg",
+    "audio/music/Experiments.md",
+    "outdoors/pennine_way/images",
+    "arts_and_crafts/Dandelion dress.md",
+    "outdoors/stones/cumbria/Dacre Bears.md",
+    "outdoors/stones/arran/Machrie Moor.md",
+    "computers/graphics/coracle/Circle contains.md",
+    "computers/graphics/coracle/Tunnel.md",
+    "computers/graphics/coracle/Boids and orbs.md",
+    "outdoors/stones/north_yorkshire/Thornborough Henges.md",
+    "computers/software/LUT Film Package.md",
+    "outdoors/stones/arran/Brodick Stones.md",
+    "computers/graphics/coracle/Normals, culling, lighting.md",
+    "computers/graphics/coracle/Falling rain.md",
+    "outdoors/stones/cumbria/Cairn Circle.md",
+    "arts_and_crafts/art/S, by A.md",
+    "computers/software/Control.md",
+    "outdoors/stones/oxfordshire/Whispering Knights.md",
+    "computers/playdate/Coracle.md",
+    "outdoors/stones/west_yorkshire/Catholes Stone.md",
+    "computers/graphics/coracle/Random lines.md",
+    "computers/graphics/coracle/Filaments.md",
+    "outdoors/stones/wales/Lligwy Cromlech.md",
+    "computers/graphics/coracle/Snowing.md",
+    "outdoors/stones/Stones.md",
+    "outdoors/stones/cumbria/Sewborwens.md",
+    "outdoors/trigpoints/west_yorkshire/images",
+    "outdoors/trigpoints/lancashire/images",
+    "outdoors/trigpoints/greater_manchester/images",
+    "outdoors/trigpoints/west_yorkshire",
+    "outdoors/trigpoints/lancashire",
+    "outdoors/trigpoints/greater_manchester",
+    "outdoors/trigpoints",
+    "outdoors/stones/west_yorkshire/images",
+    "outdoors/stones/west_yorkshire"
+  ]
+}

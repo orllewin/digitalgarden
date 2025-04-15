@@ -1,1 +1,0 @@
-This repo is a backup of the Obsidian vault at [publish.obsidian.md/orllewin/](https://publish.obsidian.md/orllewin/). If you're reading this there I've screwed up the filters.

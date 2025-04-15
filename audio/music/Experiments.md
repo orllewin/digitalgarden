@@ -23,6 +23,6 @@ First results with the new (to me) electric guitar and the  [MXR Layers](https:/
 
 ![2024_12_swells](audio/2024/2024_12_swells.mp3)
 
-and a drone made with two Playdates, both running [ModularPlay](../../playdate/ModularPlay.md):
+and a drone made with two Playdates, both running [ModularPlay](../../computers/playdate/ModularPlay.md):
 
 ![2024_12_pd_drone](audio/2024/2024_12_pd_drone.mp3)
