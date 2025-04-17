@@ -56,7 +56,7 @@ It's easy to add any well known Kotlin dependency, maven central is added by def
 ```
 #!/usr/bin/env kotlin
 
-@file:Repository("[https://repo.maven.apache.org/maven2/](https://repo.maven.apache.org/maven2/)")
+@file:Repository("https://repo.maven.apache.org/maven2/")
 @file:DependsOn(
 	"com.squareup.okio:okio:3.6.0"
 )
