@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76c0ccc2ff3bbbae",
+        "id": "444747f69ca79961",
         "type": "tabs",
         "children": [
           {
-            "id": "48191d4ddd7eaf83",
+            "id": "6c32a570b3ef8f54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audio/Orllewin tinyfone.md",
+                "file": "hardware/Daydream Controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orllewin tinyfone"
-            }
-          },
-          {
-            "id": "c9778d32da6b9dcd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "hardware/images/tinyfone4.png"
-              },
-              "icon": "lucide-image",
-              "title": "tinyfone4"
+              "title": "Daydream Controller"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 339.5
   },
   "right": {
     "id": "639a0807734f918c",
@@ -179,53 +166,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c9778d32da6b9dcd",
+  "active": "6c32a570b3ef8f54",
   "lastOpenFiles": [
-    "audio/Orllewin tinyfone.md",
-    "computers/graphics/godot/Cells.md",
-    "computers/graphics/coracle/Circle packing standard.md",
-    "computers/graphics/coracle/Line.md",
-    "computers/playdate/Serial Comms.md",
+    "hardware/Ever Ready Bike Lights Conversion.md",
+    "hardware/IKEA Eneby 30.md",
+    "hardware/Pacemaker.md",
+    "hardware/Playdate Crank Mod.md",
+    "hardware/Technics 1200.md",
+    "hardware/audio/20240918_emfone_handheld_stream.mp3",
+    "hardware/audio/20240327_minimiczoomf2.mp3",
+    "hardware/audio/20240320_11_25am_minimic_zoomh1.mp3",
+    "hardware/audio/20240320_11_15am_minimic_zoomh1_autolevel_guitar_std.mp3",
+    "hardware/audio/20240320_11_15am_minimic_zoomh1_autolevel_guitar_in_body.mp3",
+    "hardware/AXN10.md",
+    "hardware/Daydream Controller.md",
+    "hardware/Rabbit R1.md",
     "outdoors/trigpoints/Trigpoints.md",
-    "computers/Kotlin script.md",
-    "computers/Incantations.md",
-    "outdoors/trigpoints/west_yorkshire/Penistone Hill.md",
-    "outdoors/trigpoints/west_yorkshire/images/PXL_20250328_135641467_penistone_hill.jpg",
-    "outdoors/trigpoints/west_yorkshire/images/PXL_20250328_135656637_penistone_hill.jpg",
-    "outdoors/trigpoints/west_yorkshire/Keighley Moor.md",
     "outdoors/trigpoints/west_yorkshire/images/PXL_20250329_102536691_keighley_moor.jpg",
-    "outdoors/trigpoints/west_yorkshire/images/PXL_20250329_102620457_keighley_moor.jpg",
     "outdoors/trigpoints/west_yorkshire/images/PXL_20250329_102505003_keighley_moor.jpg",
-    "outdoors/trigpoints/north_yorkshire/Elslack Moor.md",
-    "outdoors/trigpoints/north_yorkshire/images/PXL_20250329_141322156_elslack_moor.jpg",
+    "outdoors/trigpoints/cheshire/images/shutlingsloe_trig_point.jpg",
+    "outdoors/trigpoints/west_yorkshire/images/PXL_20250329_102620457_keighley_moor.jpg",
+    "outdoors/trigpoints/west_yorkshire/Keighley Moor.md",
     "outdoors/trigpoints/north_yorkshire/images/PXL_20250329_141151465_elslack_moor.jpg",
-    "outdoors/trigpoints/north_yorkshire/Haw Crag.md",
-    "outdoors/trigpoints/north_yorkshire/images/PXL_20250330_112234032_hawcrag.jpg",
-    "outdoors/trigpoints/north_yorkshire/images/PXL_20250330_112257520_hawcrag.jpg",
+    "outdoors/trigpoints/cheshire/Shutlingsloe.md",
+    "outdoors/trigpoints/west_yorkshire/images/PXL_20250328_135641467_penistone_hill.jpg",
     "outdoors/trigpoints/lancashire/Stang Top Moor.md",
+    "outdoors/trigpoints/west_yorkshire/Inchfield Moor.md",
+    "outdoors/trigpoints/north_yorkshire/images/PXL_20250330_112234032_hawcrag.jpg",
+    "outdoors/trigpoints/west_yorkshire/Penistone Hill.md",
+    "outdoors/trigpoints/north_yorkshire/Haw Crag.md",
+    "outdoors/trigpoints/west_yorkshire/images/inchfield_moor.jpg",
+    "outdoors/trigpoints/north_yorkshire/images/PXL_20250329_141322156_elslack_moor.jpg",
+    "outdoors/trigpoints/west_yorkshire/images/PXL_20250328_135656637_penistone_hill.jpg",
+    "outdoors/trigpoints/north_yorkshire/Elslack Moor.md",
+    "cheshire/Shutlingsloe.md",
     "outdoors/trigpoints/north_yorkshire/images",
     "outdoors/trigpoints/north_yorkshire",
-    "outdoors/trigpoints/lancashire/images/PXL_20250406_104542819_stangtopmoor.jpg",
-    "outdoors/trigpoints/west_yorkshire/Inchfield Moor.md",
-    "outdoors/trigpoints/cheshire/Shutlingsloe.md",
-    "cheshire/Shutlingsloe.md",
-    "cheshire",
     "outdoors/trigpoints/cheshire/images",
     "outdoors/trigpoints/cheshire",
+    "cheshire",
     "outdoors/trigpoints/staffordshire/The Roaches.md",
-    "outdoors/trigpoints/west_yorkshire/Bridestones Moor.md",
-    "outdoors/trigpoints/staffordshire/images",
-    "outdoors/pennine_way/The Pennine Way.md",
-    "outdoors/trigpoints/staffordshire",
-    "audio/music/Experiments.md",
-    "outdoors/pennine_way/images",
+    "arts_and_crafts/art/Raster to line.md",
+    "outdoors/calderdale/Pudsey Clough.md",
+    "arts_and_crafts/art/Pieta pen plot.md",
     "arts_and_crafts/Dandelion dress.md",
     "outdoors/stones/cumbria/Dacre Bears.md",
     "outdoors/stones/arran/Machrie Moor.md",
-    "computers/graphics/coracle/Circle contains.md",
-    "computers/graphics/coracle/Tunnel.md",
-    "computers/graphics/coracle/Boids and orbs.md",
-    "outdoors/trigpoints/west_yorkshire/images",
-    "outdoors/trigpoints/lancashire/images"
+    "computers/graphics/coracle/Circle contains.md"
   ]
 }

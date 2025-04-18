@@ -1,4 +1,4 @@
-	Simple project to improve the look of IKEA's Eneby 30. After trying and failing with fabric dye I got good results with simple black spray paint. 
+ Simple project to improve the look of IKEA's Eneby 30. After trying and failing with fabric dye I got good results with simple black spray paint. 
 
 | Before                           | After                            |
 | -------------------------------- | -------------------------------- |
